@@ -7,3 +7,7 @@
 
 [练习：中兴通讯的财报分析](http://gigix.thoughtworkers.org/2011/8/31/zte-financial-analysis/)
 
+[在哪里能找到各行业的分析研究报告？](https://www.zhihu.com/question/19766160/answer/129491164)
+
+[通联数据](https://www.datayes.com/) ：获取行业信息的网站
+
